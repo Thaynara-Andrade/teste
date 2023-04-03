@@ -1,5 +1,5 @@
 
-### Projeto em desenvolvimento 🚧
+### 🚧 Projeto em desenvolvimento 🚧
 
 
 ## 🚀  Baixe o App na AppStore
@@ -43,6 +43,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Ranch Run co. All rights reserved 
+Ranch Run co. All rights reserved ©
 
 [⬆ Voltar ao topo](#RashRun)<br>
