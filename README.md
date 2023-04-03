@@ -1,10 +1,8 @@
 
 ### Projeto em desenvolvimento 🚧
 
-## 💻 Pré-requisitos
 
-
-## 🚀 Baixe o App na AppleStore
+## 🚀  Baixe o App na AppStore
 
 ```
 <link app store ou testfligth>
