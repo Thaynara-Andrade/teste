@@ -1,13 +1,4 @@
 
-### 🚧 Projeto em desenvolvimento 🚧
-
-
-## 🚀  Baixe o App na AppStore
-
-```
-<link app store ou testfligth>
-```
-
 ## 👩🏻‍💻👩🏻‍💻👨🏻‍💻 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
