@@ -1,10 +1,14 @@
 
+## Ranch Rush
+
+Ranch Rush é um jogo desenvolvido em Swift utilizando o SpriteKit, onde os jogadores embarcam em uma aventura emocionante com Marcus, um fazendeiro dedicado. Ele é dono de uma pequena produtora de leite em uma cidade do interior. Porém em um dia a transportadora local enfrentou problemas e não conseguiu realizar as entregas, Marcus não podia deixar seu clientes esperando e decide usar sua moto e garantir que o leite chegue aos clientes.
+
+## Vídeo de apresentaçao do jogo
+
+https://github.com/user-attachments/assets/d89a7cf7-d1c8-4d94-82d4-6efc04427bc4
+
+
 ## Colaboradores
-
-
-https://github.com/user-attachments/assets/c4de28bf-39f9-4c49-89bc-b10c7e6b1f60
-
-
 <table>
   <tr>
     <td align="center">
