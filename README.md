@@ -1,5 +1,5 @@
 
-## 👩🏻‍💻👩🏻‍💻👨🏻‍💻 Colaboradores
+## Colaboradores
 
 <table>
   <tr>
